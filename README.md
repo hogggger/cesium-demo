@@ -1,6 +1,7 @@
 # cesium-test
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite. 
+And this demo will show how to create a CESIUMJs project including load model,operate entity and primity.
 
 ## Recommended IDE Setup
 
